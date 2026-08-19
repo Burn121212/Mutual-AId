@@ -4,6 +4,8 @@
 
 **A modular framework for cultivating small, local AIs that support mutual aid, resilience, and human autonomy.**
 
+![Mutual_AId_cover](Mutual_AId_cover.jpg)
+
 ### Local intelligence · Ecological limits · Human autonomy
 
 > **Grow intelligence. Cultivate autonomy.**
