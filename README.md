@@ -1,13 +1,14 @@
-# Mutual-AId
+# 🌱 Mutual-AId
 
 ## Artificial Intelligence for Mutual Aid
-A modular framework for cultivating small, local AIs that support mutual aid, resilience, and human autonomy.
+
+**A modular framework for cultivating small, local AIs that support mutual aid, resilience, and human autonomy.**
 
 ### Local intelligence · Ecological limits · Human autonomy
 
 > **Grow intelligence. Cultivate autonomy.**
 
-**Mutual-AId** is an open experimental framework for developing **small, local, energy-conscious and cooperative artificial intelligences** designed to increase human and community resilience rather than technological dependence.
+**Mutual-AId** explores an alternative approach to artificial intelligence: small, local, energy-conscious and cooperative systems designed to strengthen human and community resilience rather than technological dependence.
 
 We are not trying to build another general-purpose AI platform.
 
@@ -15,15 +16,15 @@ We are asking a different question:
 
 > **Can artificial intelligence help humans become more autonomous rather than increasingly dependent on artificial intelligence?**
 
+📜 **Read the full manifesto:**  
+[English — Mutual-AId Manifesto](MANIFESTO.md) ·
+[Español — Manifiesto Mutual-AId](MANIFESTO_ES.md)
+
 ---
 
-##  Why Mutual-AId?
+## 🌿 Why Mutual-AId?
 
-Artificial intelligence is increasingly associated with enormous datasets, centralized infrastructure, cloud dependency, surveillance capabilities and a technological race toward increasingly powerful models.
-
-Mutual-AId explores another trajectory.
-
-Instead of:
+Much of contemporary AI development follows a trajectory of increasing scale:
 
 ```text
 more data
@@ -39,7 +40,7 @@ more energy
 greater dependency
 ```
 
-we explore:
+Mutual-AId explores another trajectory:
 
 ```text
 better knowledge
@@ -63,65 +64,40 @@ The project draws inspiration from mutual aid, ecology, evolutionary theory, ope
 
 ---
 
-## 🤝 Mutual Aid
+## 🤝 Mutual Aid, Slow AI and the Red King Principle
 
-The name is deliberately inspired by Peter Kropotkin's *Mutual Aid: A Factor of Evolution*.
+The concept of **Mutual-AId** is partly inspired by Peter Kropotkin's *Mutual Aid: A Factor of Evolution*, which emphasized cooperation as an important factor in persistence and survival alongside competition.
 
-Kropotkin challenged interpretations of evolution that emphasized competition while neglecting cooperation.
+Nature is not universally cooperative. Competition, predation, parasitism, mutualism and cooperation coexist.
 
-Nature is not universally cooperative. It contains competition, predation, parasitism, mutualism and many other interactions.
+Our proposal is therefore not that cooperation is a universal natural law, but that:
 
-But cooperation can also contribute to persistence and survival.
+> **If we can choose which relationships our technologies encourage, we can deliberately design systems in which cooperation is advantageous.**
 
-Mutual-AId asks:
+Mutual-AId also takes inspiration from the **Red King effect** in evolutionary theory, where slower evolutionary change can, under particular mutualistic conditions, influence the outcome of cooperation between partners.
 
-> **What happens if we deliberately design technological systems in which cooperation is advantageous?**
+We use this as inspiration rather than as a literal law for artificial intelligence.
 
-Mutual aid is not treated here simply as charity.
+Mutual-AId therefore favors **Slow AI**:
 
-It is explored as a **strategy of resilience**.
+- deliberate rather than compulsory technological change;
+- repair before replacement;
+- efficiency before computational expansion;
+- long-term usefulness before constant upgrading;
+- reversible and understandable systems.
 
----
+A larger model is not automatically better. A faster computer is not automatically necessary. Sometimes stability itself is progress.
 
-## 👑 Slow AI and the Red King Principle
-
-Mutual-AId refuses to treat technological development as a permanent arms race.
-
-We take inspiration from the **Red King effect** in evolutionary theory, where slower evolutionary change can, under particular mutualistic conditions, influence the outcome of cooperation between partners.
-
-We do not treat the Red King effect as a literal law of artificial intelligence.
-
-We use it as inspiration for a technological principle:
-
-> **We do not need to evolve faster than everyone else. We need to remain useful to one another for longer.**
-
-A new model is not automatically better because it is larger.
-
-A new computer is not automatically necessary because it is faster.
-
-An update is not automatically progress because it exists.
-
-Mutual-AId favors:
-
-**slow + deliberate + reversible technological change.**
-
-Stability can be progress.
-
-Repair can be progress.
-
-Using less energy can be progress.
-
-Understanding our machines can be progress.
+> **The goal is not to evolve faster than everyone else.  
+> The goal is to remain useful to one another for longer.**
 
 ---
 
 ## 🌱 The Digital Seed
 
-The fundamental distributable unit of Mutual-AId is the:
+The fundamental distributable unit of Mutual-AId is the **Digital Seed**:
 
-### Digital Seed
-
-A Digital Seed is a small, reproducible and carefully curated package from which a local intelligence can be cultivated.
+> A small, reproducible and carefully curated package from which a local intelligence can be cultivated.
 
 ```text
 DIGITAL SEED
@@ -136,55 +112,35 @@ DIGITAL SEED
 └── integrity information
 ```
 
-The seed does not contain everything.
+The seed does not need to contain everything.
 
-It contains enough to **begin again**.
+It needs to contain enough to **begin again**.
 
 A community should be able to copy it, store it offline, transport it physically and reconstruct a Mutual-AId node without permanent dependence on a corporation or cloud service.
 
----
+Like a biological seed, it is not intended to grow uncontrollably. It is meant to be **cultivated**.
 
-## 🌿 Cultivate Intelligence
-
-Mutual-AId treats artificial intelligence more like a garden than an industrial race.
-
-Information should not enter its permanent knowledge base indiscriminately.
+New knowledge should therefore follow a deliberate process:
 
 ```text
-DISCOVER
-   ↓
-SOURCE
-   ↓
-VERIFY
-   ↓
-COMPARE
-   ↓
-HUMAN REVIEW
-   ↓
-INCORPORATE
-   ↓
-PRESERVE
+DISCOVER → SOURCE → VERIFY → COMPARE → HUMAN REVIEW → INCORPORATE → PRESERVE
 ```
 
-The objective is not maximum information.
-
-It is:
+The objective is not maximum information, but:
 
 > **sufficient + diverse + traceable + verifiable + useful knowledge**
 
-The AI is the librarian.
-
-**It should never become the library.**
+**The AI is the librarian. It should never become the library.**
 
 ---
 
-## ⚡ Computational Metabolism
+## ⚡ Intelligence Within Ecological Limits
 
 Artificial intelligence is physical infrastructure.
 
-It consumes energy, hardware, storage, minerals and eventually replacement components.
+Computation consumes energy, hardware, storage, minerals and eventually replacement components.
 
-Mutual-AId therefore treats computation as a **metabolism**.
+Mutual-AId therefore treats computation as a **metabolism** whose activity should adapt to available resources.
 
 ```text
 ENERGY SURPLUS
@@ -203,7 +159,17 @@ manual operation
 ENERGY SCARCITY
 ```
 
-The AI adapts its computational activity to available resources.
+When resources are scarce, nonessential computation can wait.
+
+Indexing can wait.
+
+Updates can wait.
+
+Parts of the system can enter **dormancy**, while essential functions continue through simpler controllers.
+
+And if those fail:
+
+> **manual operation remains possible.**
 
 We do not expand energy consumption indefinitely to satisfy computation.
 
@@ -211,31 +177,11 @@ We do not expand energy consumption indefinitely to satisfy computation.
 
 ---
 
-## 🌙 Dormancy
-
-Maximum activity is not always desirable.
-
-During periods of resource scarcity, Mutual-AId should be capable of reducing computational activity.
-
-Nonessential analysis can wait.
-
-Indexing can wait.
-
-Updates can wait.
-
-Essential functions continue through simple controllers.
-
-And if those fail:
-
-**manual operation remains possible.**
-
----
-
-## 🧑‍🌾 AI for Autonomy
+## 🧑‍🌾 AI That Returns Knowledge to Humans
 
 Mutual-AId should primarily function as:
 
-**teacher + librarian + observer + memory + assistant.**
+> **teacher + librarian + observer + memory + assistant**
 
 Not ruler.
 
@@ -249,22 +195,22 @@ If AI diagnoses equipment, humans should understand the diagnosis.
 
 If AI manages energy, humans should remain capable of operating the system.
 
-Every Mutual-AId community should periodically ask:
+Every Mutual-AId system should periodically face a simple test:
 
 > **If our AI disappeared tomorrow, could we continue?**
 
-If the answer progressively becomes *no*, the system is failing.
+If the answer progressively becomes *no*, we are creating dependency rather than resilience.
 
 ---
 
-## 📚 Functional Redundancy
+## 📚 Redundancy and Decentralization
 
 Knowledge should survive the failure of individual technologies.
 
 ```text
 Internet
    ↓
-community network
+community networks
    ↓
 local servers
    ↓
@@ -279,15 +225,9 @@ human knowledge
 
 No layer replaces the others.
 
-Together they create resilience.
-
 > **Decentralization means multiplying the possible paths through which knowledge can survive.**
 
----
-
-## 🤝 Cooperative Networks
-
-Mutual-AId nodes should remain autonomous while being capable of voluntary cooperation.
+Mutual-AId nodes should therefore remain autonomous while being capable of voluntary cooperation.
 
 ```text
 Cabin-01 ←────→ Cabin-02
@@ -297,16 +237,7 @@ Cabin-01 ←────→ Cabin-02
 Cabin-03 ←────→ Cabin-04
 ```
 
-Nodes may exchange:
-
-- environmental observations;
-- knowledge;
-- software;
-- requests for assistance;
-- available resources;
-- agricultural information;
-- warnings;
-- repair knowledge.
+Nodes may exchange knowledge, environmental observations, software, warnings, repair information and voluntary requests for assistance.
 
 No central AI is required.
 
@@ -314,43 +245,14 @@ No central AI is required.
 
 ---
 
-## ⚖️ Reciprocity Without Social Scoring
+## 🔍 Transparency Without Surveillance
 
-Mutual-AId may experiment with transparent mutual-credit systems for resource cooperation.
-
-A community may record:
-
-```text
-energy shared
-water shared
-food shared
-work contributed
-equipment repaired
-knowledge contributed
-```
-
-But never:
-
-```text
-human value = 82/100
-```
-
-We account for resources.
-
-**We do not score human worth.**
-
-Access to fundamental needs must never depend on an AI-generated cooperation score.
-
----
-
-## 🔍 Transparent Algorithms, Private Humans
-
-Recommendations affecting collective resources should be explainable.
+Recommendations affecting collective resources should be explainable:
 
 ```text
 DATA
  ↓
-RULE
+RULES
  ↓
 CALCULATION
  ↓
@@ -361,23 +263,27 @@ RECOMMENDATION
 HUMAN DECISION
 ```
 
-People should be able to inspect the systems affecting their community.
+But algorithmic transparency must not become human surveillance.
 
-But transparency of algorithms must not become surveillance of inhabitants.
+Mutual-AId may experiment with transparent resource accounting and mutual-credit systems, but these systems must never become mechanisms for assigning value to people.
+
+We may account for resources.
+
+**We do not score human worth.**
 
 > **The community should be able to observe the algorithm without requiring the algorithm to observe the entire community.**
 
 ---
 
-## 🌎 Ecological Return on Computation
+## 🌎 Measuring Whether It Actually Works
 
-Mutual-AId proposes evaluating whether computation actually provides sufficient ecological or practical benefit.
+Mutual-AId should be falsifiable.
 
-We call this:
+Two experimental concepts will help evaluate whether the project is achieving its goals.
 
 ### EROC — Ecological Return on Computation
 
-Conceptually:
+Does computation provide enough ecological or practical benefit to justify the resources it consumes?
 
 ```text
 resources saved or better managed through computation
@@ -385,21 +291,11 @@ resources saved or better managed through computation
 resources consumed to maintain that computation
 ```
 
-A more sophisticated AI is not necessarily a better AI.
+### HAI — Human Autonomy Index
 
-**Appropriate intelligence is better.**
+Can essential community functions continue when AI is unavailable?
 
----
-
-## 🧠 Human Autonomy Index
-
-We also propose measuring whether technology is progressively eliminating human capability.
-
-The **Human Autonomy Index (HAI)** evaluates whether essential community functions can continue without AI.
-
-It measures the resilience of the system.
-
-**It does not score individuals.**
+HAI evaluates the **resilience of the system**, never the value or behavior of individuals.
 
 A more capable AI accompanied by declining human autonomy should be treated as a warning.
 
@@ -407,9 +303,7 @@ A more capable AI accompanied by declining human autonomy should be treated as a
 
 ## 🧩 Modular by Design
 
-Mutual-AId should integrate existing open technologies whenever possible.
-
-Potential modules include:
+Mutual-AId is not intended to be a monolithic platform.
 
 ```text
 Mutual-AId Core
@@ -425,92 +319,49 @@ Mutual-AId Core
 └── Culture
 ```
 
-Not every node needs every module.
+A node only needs the modules relevant to its environment.
 
-Modules should communicate through documented and replaceable interfaces.
+Modules should use documented and replaceable interfaces so that individual components can evolve without making the entire system dependent on a single model, company or technology.
 
-> **Do not rebuild what the commons already built. Integrate it, measure it, document it, improve it, and return improvements to the commons.**
+And we do not intend to reinvent tools that already work.
+
+Existing open projects for local AI, offline knowledge, automation, mesh networking, agriculture and open hardware should be integrated whenever appropriate.
+
+Examples include **Kiwix, llama.cpp/Ollama, Home Assistant, Meshtastic, farmOS, Open Source Ecology and Arduino/ESP32/RP2040 ecosystems**.
+
+> **Do not rebuild what the commons already built.  
+> Integrate it. Test it. Document it. Improve it. Return improvements to the commons.**
 
 ---
 
 ## 🏡 Cabin-01
 
-Our first physical experiment is **Cabin-01**.
+The first physical experiment of Mutual-AId will be **Cabin-01**.
 
-Cabin-01 will explore whether a small local AI can assist a low-impact, partially off-grid living system.
-
-Possible components include:
+It will test whether these principles can operate together in a small, low-impact and partially off-grid environment using combinations of:
 
 - local AI;
-- Raspberry Pi / low-power computer;
-- ESP32 or similar controllers;
+- low-power computers and microcontrollers;
 - environmental sensors;
-- solar energy;
-- biogas;
+- solar energy and biogas;
 - batteries;
 - water management;
 - small-scale agriculture;
 - offline knowledge;
-- local cultural library;
+- cultural archives;
 - P2P communication.
 
-Cabin-01 is not the final product.
+Cabin-01 is not a universal blueprint.
 
 **It is an experiment.**
 
----
-
-## 🔬 Falsifiability
-
-We do not claim that Mutual-AId will work.
-
-We claim that its ideas should be **tested**.
-
-We want to measure:
-
-- computational energy consumption;
-- ecological benefit;
-- water use;
-- agricultural outcomes;
-- hardware longevity;
-- repairability;
-- offline reliability;
-- human autonomy;
-- community cooperation;
-- system failures.
+We intend to measure energy consumption, ecological benefit, hardware longevity, repairability, offline reliability, human autonomy and system failures.
 
 Failures are results.
 
 Negative results are results.
 
-If an existing technology performs better than ours:
-
-**we should use it.**
-
----
-
-## 🧩 Existing Projects
-
-Mutual-AId does not start from zero.
-
-Projects already exist for local AI, offline knowledge, home automation, mesh networking, open agriculture and open hardware.
-
-We intend to learn from and, where appropriate, integrate technologies such as:
-
-- **Project N.O.M.A.D.** — offline knowledge and local AI;
-- **Kiwix** — offline knowledge libraries;
-- **Ollama / llama.cpp** — local model inference;
-- **Home Assistant** — local-first automation;
-- **Meshtastic** — decentralized LoRa communication;
-- **farmOS** — open agricultural management;
-- **Open Source Ecology** — open and repairable infrastructure;
-- **Arduino / ESP32 / RP2040** — accessible embedded controllers.
-
-Mutual-AId is not intended to replace these projects.
-
-Its contribution is to explore how existing technologies can be integrated under a common objective:
-
-> **ecological resilience + human autonomy + mutual aid**
+If an existing technology performs better than ours, **we should use it**.
 
 ---
 
@@ -521,56 +372,17 @@ Mutual-AId/
 │
 ├── README.md
 ├── MANIFESTO.md
+├── MANIFESTO_ES.md
 ├── CONTRIBUTING.md
 ├── CITATION.cff
 │
 ├── docs/
-│   ├── architecture.md
-│   ├── digital-seed.md
-│   ├── computational-metabolism.md
-│   └── related-projects.md
-│
 ├── governance/
-│   ├── principles.md
-│   ├── privacy.md
-│   ├── decision-process.md
-│   └── ai-limits.md
-│
 ├── resilience/
-│   ├── offline-operation.md
-│   ├── graceful-degradation.md
-│   ├── backup-strategy.md
-│   ├── hardware-substitution.md
-│   └── recovery-manual.md
-│
 ├── modules/
-│   ├── knowledge/
-│   ├── agriculture/
-│   ├── water/
-│   ├── energy/
-│   ├── environment/
-│   ├── maintenance/
-│   ├── communication/
-│   ├── education/
-│   └── culture/
-│
 ├── hardware/
-│   ├── controllers/
-│   ├── sensors/
-│   ├── power/
-│   └── templates/
-│
 ├── software/
-│   ├── ai-core/
-│   ├── knowledge-interface/
-│   ├── sensor-interface/
-│   └── p2p/
-│
 ├── knowledge/
-│   ├── catalogs/
-│   ├── datasets/
-│   └── download-scripts/
-│
 ├── seeds/
 │   └── seed-v0.1/
 │
@@ -580,11 +392,9 @@ Mutual-AId/
 
 ---
 
-## 🌱 Design Philosophy
+## 🌱 Core Principles
 
-Mutual-AId combines several conceptual inspirations:
-
-| Ecological / social concept | Mutual-AId principle |
+| Inspiration | Design principle |
 |---|---|
 | **Mutual Aid** | Cooperation can increase resilience |
 | **Red King effect** | Slow technological evolution can be valuable |
@@ -600,13 +410,13 @@ Our purpose is to test whether they can generate useful technological architectu
 
 ---
 
-## 🌱 Success
+## 🌱 What Would Success Look Like?
 
-Mutual-AId will not succeed when thousands of people star this repository.
+Mutual-AId will not succeed simply because thousands of people star this repository.
 
 It will succeed when someone we have never met takes a **Digital Seed**, adapts it to another ecosystem, builds **Cabin-02**, discovers something we got wrong and shares that knowledge back.
 
-Then another community builds Cabin-03.
+Then someone else builds Cabin-03.
 
 Not identical.
 
